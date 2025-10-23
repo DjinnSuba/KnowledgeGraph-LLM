@@ -2,8 +2,9 @@
 KnowledgeGraph created using OpenAI ChatGPT to understand LLM reasoning and troubleshooting.
 
 **Project Files**
-- [📄 Dummy Dataset (dummy_data.txt)](./dummy_data.txt)
-- [🌐 Knowledge Graph Visualization (knowledgegraph.html)](./knowledge_graph.html)
+- [Dummy Dataset (dummy_data.txt)](./dummy_data.txt)
+- [Knowledge Graph Visualization (knowledgegraph.html)](./knowledge_graph.html)
+- [Shared (Session of OpenAI LLM)](https://chatgpt.com/share/68f9c50b-fefc-8000-a68d-96767bd7b9b3)
 
 ---
 
