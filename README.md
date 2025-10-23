@@ -3,7 +3,7 @@ KnowledgeGraph created using OpenAI ChatGPT to understand LLM reasoning and trou
 
 **Project Files**
 - [📄 Dummy Dataset (dummy_data.txt)](./dummy_data.txt)
-- [🌐 Knowledge Graph Visualization (knowledgegraph.html)](./knowledgegraph.html)
+- [🌐 Knowledge Graph Visualization (knowledgegraph.html)](./knowledge_graph.html)
 
 ---
 
@@ -37,4 +37,4 @@ The workflow was executed using **LangChain** and **OpenAI API**, with iterative
 
 ### Results
 The results of the generated knowledge graph can be viewed here:
-👉 [View Knowledge Graph Visualization](./knowledgegraph.html)
+👉 [View Knowledge Graph Visualization](./knowledge_graph.html)
